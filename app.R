@@ -215,4 +215,4 @@ server <- function(input, output) {
 
 # Run the application
 shinyApp(ui = ui, server = server)
->>>>>>> a94c3dd1b35fc57df8867655621856e51db6b6f3
+
